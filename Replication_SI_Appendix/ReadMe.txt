@@ -1,4 +1,4 @@
-Paolillo, A. , Silgado-Gómez, E., 27/11/2022.
+Corrado, L., Grassi, S., Paolillo, A. , Silgado-Gómez, E., 27/11/2022.
 
 This folder replicates the results in the SI Appendix.
 

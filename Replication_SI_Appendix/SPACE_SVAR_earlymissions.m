@@ -1,3 +1,6 @@
+% The following code and related functions are based on the original routines by
+% Antolín-Díaz, Juan, and Juan F. Rubio-Ramírez. 2018. "Narrative Sign Restrictions for SVARs." American Economic Review, 108 (10): 2802-29.
+
 clear
 clc
 

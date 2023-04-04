@@ -1,6 +1,8 @@
 % =================================================================== %
 %  This file replicates Figure S7 in the SI Appendix:
-%  
+%
+%  Note: This code has been implemented using Matlab R2020b on a laptop
+%  with Intel i7 2.8GHz processor and 32GB in RAM.
 % =================================================================== %
 
 

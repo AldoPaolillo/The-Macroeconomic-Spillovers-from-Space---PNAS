@@ -1,6 +1,8 @@
-Paolillo, A.,  15/03/2022.
+This folder estimates the larger model originally submitted to PNAS.
+This is a larger model with more data series, that has been simplified after the revision.
 
-This estimates the larger model originally submitted to PNAS.
+Corrado, L., Grassi, S., Paolillo, A., & Silgado-Gómez, E. (2023)
+
 
 % =================================================================== %
 %  SOFTWARE

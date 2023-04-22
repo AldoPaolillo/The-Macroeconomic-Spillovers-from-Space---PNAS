@@ -1,3 +1,8 @@
+Replication code for:
+
+Corrado, L., Grassi, S., Paolillo, A., & Silgado-Gómez, E. (2023)
+The Macroeconomic Spillovers from Space Activity.
+Proceedings of the National Academy of Sciences.
 
 % =================================================================== %
 %  MAIN FOLDERS

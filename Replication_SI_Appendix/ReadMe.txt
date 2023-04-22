@@ -63,4 +63,4 @@ Dynare Working Papers 72, CEPREMAP.
 - oo_2.mat contains the results of the benchmark estimation.
 - AerospaceDataset_wIT.csv
 - AerospaceDataset_NASADoD.csv
-- Figure_S4_CoreSector.pdf reports the robustness checks with respect to calibrated parameters in the core sector.
+- Figure_S4_CoreSector.pdf reports the robustness checks with respect to calibrated parameters in the core sector, not shown in the SI Appendix.

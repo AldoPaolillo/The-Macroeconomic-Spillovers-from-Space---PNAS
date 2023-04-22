@@ -1,6 +1,6 @@
 This folder replicates the results in the SI Appendix of:
 
-Corrado, L., Grassi, S., Paolillo, A., & Silgado-G�mez, E. (2023)
+Corrado, L., Grassi, S., Paolillo, A., & Silgado-Gómez, E. (2023)
 The Macroeconomic Spillovers from Space Activity.
 Proceedings of the National Academy of Sciences.
 
@@ -12,7 +12,7 @@ Proceedings of the National Academy of Sciences.
 -Please use the MATLAB version R2018b.
 -Please use the DYNARE Version '4.6.2', available at 'https://www.dynare.org/release/'.
 See: 
-Adjemian, S., Bastani, H., Juillard, M.,  Karamé, F., Mihoubi, F., Mutschler, W., Pfeifer,
+Adjemian, S., Bastani, H., Juillard, M.,  KaramÃ©, F., Mihoubi, F., Mutschler, W., Pfeifer,
 J., Ratto, M., Rion, N., and Villemot, S. (2022). Dynare: Reference Manual Version 5.
 Dynare Working Papers 72, CEPREMAP.
 
@@ -63,4 +63,4 @@ Dynare Working Papers 72, CEPREMAP.
 - oo_2.mat contains the results of the benchmark estimation.
 - AerospaceDataset_wIT.csv
 - AerospaceDataset_NASADoD.csv
-
+- Figure_S4_CoreSector.pdf reports the robustness checks with respect to calibrated parameters in the core sector.

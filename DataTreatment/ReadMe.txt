@@ -25,7 +25,7 @@ Proceedings of the National Academy of Sciences.
 
 - ImputeAS_Indprod.m in folder 'AerospaceIndustrialProduction' imputes the
     the aerospace IP between 1960:Q1 and 1972:Q1 using aerospace capacity utilization.
-  This is bacause the Board of Governors of the Federal Reserve System gives IP for a shorter sample than capacity
+  This is because the Board of Governors of the Federal Reserve System gives IP for a shorter sample than capacity
      utilization, and the two series are closely correlated.
 
 % =================================================================== %
